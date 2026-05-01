@@ -121,10 +121,12 @@
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=bharath-ganga\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bharath-ganga\&theme=tokyonight\&show_icons=true)
-![Streak](https://streak-stats.demolab.com/?user=bharath-ganga\&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-ganga\&layout=compact\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=bharath-ganga\&theme=tokyonight\&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-ganga\&layout=compact\&theme=tokyonight\&hide_border=true)
+
 
 ---
 
