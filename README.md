@@ -9,8 +9,8 @@
 * 🎓 B.Tech CSE @ VIT-AP University (2023–2027)
 * 💡 Passionate about building real-world applications
 * 🧠 Interested in AI, Web Development, and Security
-* 🔍 Currently improving Data Structures & Algorithms
-* 🌱 Exploring scalable systems & cloud technologies
+* 🔍 Practicing Data Structures & Algorithms
+* 🌱 Exploring Cloud & Scalable Systems
 
 ---
 
@@ -32,50 +32,29 @@
 
 ### 👨‍💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
 ### 🌐 Web & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express\&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-### ☁️ Cloud & Hosting
+### ☁️ Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
-
-### 🤖 AI / Data Science
-
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge\&logo=opencv\&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-### ⚙️ Tools
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🧥 WearYourStyle — AI Fashion Platform
 
@@ -88,11 +67,8 @@
 ### 💰 Expense Tracker
 
 * Full-stack finance tracking app
-* Categorization & filtering of expenses
-* Clean UI for better user experience
-
-  
- 🔗 https://expensivetracker-teal.vercel.app/
+* Expense categorization & filtering
+* Clean UI and efficient data handling
 
 ---
 
@@ -101,40 +77,53 @@
 🔗 https://portfolio-ganga.vercel.app/
 
 * Responsive personal portfolio
-* Optimized performance & smooth navigation
+* Optimized performance
 
 ---
 
-## 🧠 Research
+## 📊 Stats Dashboard
 
-### ML-Based SDN DDoS Detection
-
-* Built ML model to detect DDoS attacks
-* Improved detection accuracy
-
----
-
-## 🏆 Achievements
-
-* Active problem solver on LeetCode
-* Built multiple full-stack & AI projects
-* Strong understanding of DSA
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GitHub+%2B+LeetCode+Dashboard;Full+Stack+Developer;AI+%7C+Web+%7C+Security" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bharath-ganga\&show_icons=true\&theme=tokyonight\&hide_border=true)
+### 🚀 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=bharath-ganga\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath-ganga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-ganga&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-ganga\&layout=compact\&theme=tokyonight\&hide_border=true)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bharath-ganga&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🧠 LeetCode Stats
+### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/GANGA_BHARATH?theme=dark\&font=baloo\&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GANGA_BHARATH?theme=dark&font=baloo&ext=contest" height="250"/>
+</p>
 
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharath-ganga&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharath-ganga&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ⭐ *"Code. Build. Learn. Repeat."*
