@@ -128,4 +128,9 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/GANGA_BHARATH?theme=dark\&font=baloo\&ext=contest)
+
+
 ⭐ *"Code. Build. Learn. Repeat."*
