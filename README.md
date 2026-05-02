@@ -16,7 +16,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://portfolio-ganga.vercel.app/
+🔗 https://portfolio.gangabharath.dev/)
 
 ---
 
